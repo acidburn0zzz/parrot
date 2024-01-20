@@ -1833,7 +1833,7 @@ __metadata:
     fuse.js: "npm:^6.6.2"
     typescript: "npm:^5.2.2"
     unplugin-icons: "npm:^0.16.1"
-    vite: "npm:^4.5.0"
+    vite: "npm:^4.5.2"
     vite-plugin-windicss: "npm:^1.9.1"
     vue: "npm:^3.3.2"
     vue-router: "npm:4"
@@ -2289,9 +2289,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.5.0":
-  version: 4.5.0
-  resolution: "vite@npm:4.5.0"
+"vite@npm:^4.5.2":
+  version: 4.5.2
+  resolution: "vite@npm:4.5.2"
   dependencies:
     esbuild: "npm:^0.18.10"
     fsevents: "npm:~2.3.2"
@@ -2325,7 +2325,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 8/06f1a4c858e4dc4c04a10466f4ccacea30c5a9f8574e5ba3deb9d03fa20e80ca6797f02dad97a988da7cdef96238dbc69c3b6a538156585c74722d996223619e
+  checksum: 68969ccf72ad2078aec7d9e023fce6de03746a4761f9308924212fff7bd42487145b270166cec66cddacfd7b1315ec5aa39ead174fbd7fcd463637a96ff4c9d1
   languageName: node
   linkType: hard
 
